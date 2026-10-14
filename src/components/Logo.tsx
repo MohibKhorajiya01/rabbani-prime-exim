@@ -17,9 +17,9 @@ export const Logo: React.FC<LogoProps> = ({
   const [imageError, setImageError] = useState(false);
 
   const sizeClasses = {
-    sm: { img: 'h-8 sm:h-9', text: 'text-sm' },
-    md: { img: 'h-10 sm:h-11', text: 'text-base' },
-    lg: { img: 'h-12 sm:h-14', text: 'text-xl' },
+    sm: { img: 'h-7 sm:h-8 md:h-9', text: 'text-xs sm:text-sm' },
+    md: { img: 'h-8 sm:h-10 md:h-11', text: 'text-xs sm:text-sm md:text-base' },
+    lg: { img: 'h-10 sm:h-12 md:h-14', text: 'text-sm sm:text-lg md:text-xl' },
   }[size];
 
   return (
