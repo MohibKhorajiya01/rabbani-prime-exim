@@ -13,7 +13,7 @@ export const GlobalTradeVisual: React.FC<GlobalTradeVisualProps> = ({
       {/* Background Seaport Trade Imagery with Deep Navy Scrim */}
       <div className="absolute inset-0">
         <img
-          src="/src/assets/images/hero_export_logistics_1791874985943.jpg"
+          src="/images/hero_export_logistics.jpeg"
           alt="Ocean vessel container port and agro cargo"
           className="w-full h-full object-cover opacity-25 scale-105 filter blur-xs"
           loading="lazy"

@@ -17,7 +17,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({
     // 1. Welcome to Rabbani Prime Exim
     {
       id: 'welcome-ship',
-      image: '/src/assets/images/hero_cargo_ship_ocean_1791885772004.jpg',
+      image: '/images/hero_cargo_ship_ocean.jpeg',
       badge: 'GLOBAL IMPORT & EXPORT',
       title: 'Welcome to Rabbani Prime Exim',
       subtitle: 'Connecting High-Quality Indian Products with International Markets',
@@ -27,7 +27,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({
     // 2. Fresh Vegetables & Fruits (Rich Bountiful Farm & Kitchen Setup)
     {
       id: 'fresh-produce',
-      image: '/src/assets/images/veg_fruits_rich_luxury_1791890748260.jpg',
+      image: '/images/veg_fruits_rich_luxury.jpeg',
       badge: 'FRESH PRODUCE EXPORTS',
       title: 'Fresh Vegetables & Seasonal Fruits',
       subtitle: 'Export-Grade Green Chillies, Red Onions, Sweet Corn, Mangoes, Lemons & Pomegranates',
@@ -37,7 +37,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({
     // 3. Indian Spices (Luxury Slate Presentation)
     {
       id: 'spices',
-      image: '/src/assets/images/spices_luxury_export_1791890095182.jpg',
+      image: '/images/spices_luxury_export.jpeg',
       badge: 'PURE INDIAN SPICES',
       title: 'Pure Indian Spices & Dried Products',
       subtitle: 'Sortex Machine-Cleaned Cumin Seeds (Jeera), Red Chillies & Turmeric',
@@ -47,7 +47,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({
     // 4. Fancy Tissue Paper (RPE Branded Luxury Packaging)
     {
       id: 'tissue-paper',
-      image: '/src/assets/images/tissue_paper_rpe_brand_1791890749260.jpg',
+      image: '/images/tissue_paper_rpe_brand.jpeg',
       badge: 'TISSUE & SANITARY PAPER',
       title: 'RPE Premium Tissue & Paper Products',
       subtitle: 'RPE Virgin Pulp Toilet Rolls, Facial Tissue Boxes, Kitchen Towels & Napkins',
@@ -57,7 +57,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({
     // 5. Stainless Steel Luxury Vacuum Bottles (Bottles Only, RPE Branded)
     {
       id: 'stainless-bottles',
-      image: '/src/assets/images/ss_bottles_only_rpe_1791890748920.jpg',
+      image: '/images/ss_bottles_only_rpe.jpeg',
       badge: 'STAINLESS STEEL DRINKWARE',
       title: 'RPE Stainless Steel Bottles & Thermal Flasks',
       subtitle: 'Double-Wall Vacuum Insulated Thermal Flasks & Classic Single-Wall Sleek Bottles',

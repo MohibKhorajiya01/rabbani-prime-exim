@@ -224,7 +224,7 @@ export const AboutPage: React.FC<AboutPageProps> = ({
             <div className="lg:col-span-6">
               <div className="rounded-2xl overflow-hidden border border-slate-200 shadow-lg bg-white">
                 <img
-                  src="/src/assets/images/hero_export_logistics_1791874985943.jpg"
+                  src="/images/hero_export_logistics.jpeg"
                   alt="Export logistics and container port terminal"
                   className="w-full h-80 object-cover"
                 />
